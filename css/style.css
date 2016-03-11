@@ -1,0 +1,210 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Overlock+SC);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  background: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+}
+
+p {
+  margin: 5px 0;
+  line-height: 15px;
+}
+
+b {
+  font-weight: bold;
+  font-family: 'Open Sans Bold 700', sans-serif;
+}
+
+i {
+    font-style: italic;
+}
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/*
+------------------------
+  Reference
+------------------------
+*/
+.boxreference{
+  max-width: 600px;
+  display: block;
+  margin-top: 10px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.boxreference h1 {
+    font-size:12px;
+    font-family: 'Open Sans Bold 700', sans-serif;
+    font-weight: bold;
+    color: #000000;
+  }
+
+.boxreference p {
+    font-size:12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+  }
+
+.boxreference a {
+    font-size:12px;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+
+/*
+------------------------
+  Graph
+------------------------
+*/
+.boxgraph{
+  max-width: 600px;
+  display: block;
+  margin-top: 0px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.boxgraph .axis path {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.5px;
+    shape-rendering: crispEdges;
+  }
+
+.boxgraph .axis line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.5px;
+    shape-rendering: crispEdges;
+  }
+
+.boxgraph .dot {
+    stroke: #000;
+  }
+
+.boxgraph .legend {
+    font-size: 16px;
+    font-weight: bold;
+    text-anchor: start;
+    position: relative;
+  }
+
+.tooltip {
+    position: relative;
+    font: 14px sans-serif;
+    width: 300px;
+    height: 50px;
+    line-height: 1.2;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+  }
+
+.boxgraph svg{
+  margin-top: -50px;
+}
+
+.boxgraph .buttonex1 button{
+    width: 120px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 3px;
+  }
+
+.boxgraph  dir1 {
+    font-size: 12px;
+    font-family: 'Open Sans Bold 700', sans-serif;
+    font-weight: bold;
+    color: #000000;
+  }
+
+.boxgraph .nav {
+    position: absolute;
+    margin-left:475px;
+    height: 40px;
+    text-align: center;
+  }
+
+.boxgraph .ins1 {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 3px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top:30px;
+    color: black;
+    width: 120px;
+    line-height: 18px;
+    text-align: center;
+  }
+
+  /*
+  ------------------------
+    Figure Legend
+  ------------------------
+  */
+.figurelegend {
+    width: auto;
+    height: auto;
+    max-width: 600px;
+    margin: auto;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+.figurelegend p {
+    font-size:12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+  }
+
+.figurelegend b {
+      font-size:12px;
+      font-family: 'Open Sans Bold 700', sans-serif;
+      font-weight: bold;
+      color: #000000;
+  }
+
+.figurelegend a {
+    font-size:12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000080;
+  }
+
+.figurelegend a:hover {
+    color: #ff0000;
+  }
