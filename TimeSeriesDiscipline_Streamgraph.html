@@ -38,7 +38,7 @@ button {
 
 <script>
 
-chart("disciplinets.csv", "blue");
+chart("disciplinets.csv", "multi");
 
 var datearray = [];
 var colorrange = [];
@@ -56,9 +56,9 @@ else if (color == "orange") {
   colorrange = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"];
 }
 else if (color == "multi") {
-  colorrange = ["#045A8D", "#980043", "#B30000", "#FDBB84", "#FDD49E", "#FEF0D9"];
+  colorrange = ["#377eb8", "#ffff33", "#4daf4a", "#808080"];
 }
-strokecolor = colorrange[0];
+strokecolor = "#000000";
 
 var format = d3.time.format("%Y");
 

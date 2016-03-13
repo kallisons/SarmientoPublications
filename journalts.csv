@@ -1,84 +1,44 @@
 key,value,date
-Biogeosciences,0,1976
-Biogeosciences,0,1977
-Biogeosciences,0,1978
-Biogeosciences,0,1979
-Biogeosciences,0,1980
-Biogeosciences,0,1981
-Biogeosciences,0,1982
-Biogeosciences,0,1983
-Biogeosciences,0,1984
-Biogeosciences,0,1985
-Biogeosciences,0,1986
-Biogeosciences,0,1987
-Biogeosciences,0,1988
-Biogeosciences,0,1989
-Biogeosciences,0,1990
-Biogeosciences,0,1991
-Biogeosciences,0,1992
-Biogeosciences,0,1993
-Biogeosciences,0,1994
-Biogeosciences,0,1995
-Biogeosciences,0,1996
-Biogeosciences,0,1997
-Biogeosciences,0,1998
-Biogeosciences,0,1999
-Biogeosciences,0,2000
-Biogeosciences,0,2001
-Biogeosciences,0,2002
-Biogeosciences,0,2003
-Biogeosciences,0,2004
-Biogeosciences,0,2005
-Biogeosciences,0,2006
-Biogeosciences,0,2007
-Biogeosciences,0,2008
-Biogeosciences,0,2009
-Biogeosciences,4,2010
-Biogeosciences,0,2011
-Biogeosciences,1,2012
-Biogeosciences,2,2013
-Biogeosciences,2,2014
-Biogeosciences,0,2015
-Book,0,1976
-Book,0,1977
-Book,0,1978
-Book,0,1979
-Book,0,1980
-Book,0,1981
-Book,0,1982
-Book,0,1983
-Book,0,1984
-Book,2,1985
-Book,3,1986
-Book,0,1987
-Book,0,1988
-Book,0,1989
-Book,0,1990
-Book,0,1991
-Book,2,1992
-Book,1,1993
-Book,0,1994
-Book,1,1995
-Book,0,1996
-Book,0,1997
-Book,0,1998
-Book,0,1999
-Book,0,2000
-Book,0,2001
-Book,1,2002
-Book,1,2003
-Book,2,2004
-Book,0,2005
-Book,0,2006
-Book,1,2007
-Book,0,2008
-Book,0,2009
-Book,0,2010
-Book,0,2011
-Book,0,2012
-Book,1,2013
-Book,0,2014
-Book,0,2015
+Journal of Physical Oceanography,0,1976
+Journal of Physical Oceanography,0,1977
+Journal of Physical Oceanography,0,1978
+Journal of Physical Oceanography,0,1979
+Journal of Physical Oceanography,0,1980
+Journal of Physical Oceanography,0,1981
+Journal of Physical Oceanography,0,1982
+Journal of Physical Oceanography,2,1983
+Journal of Physical Oceanography,0,1984
+Journal of Physical Oceanography,0,1985
+Journal of Physical Oceanography,1,1986
+Journal of Physical Oceanography,0,1987
+Journal of Physical Oceanography,0,1988
+Journal of Physical Oceanography,0,1989
+Journal of Physical Oceanography,0,1990
+Journal of Physical Oceanography,0,1991
+Journal of Physical Oceanography,0,1992
+Journal of Physical Oceanography,0,1993
+Journal of Physical Oceanography,0,1994
+Journal of Physical Oceanography,0,1995
+Journal of Physical Oceanography,0,1996
+Journal of Physical Oceanography,0,1997
+Journal of Physical Oceanography,0,1998
+Journal of Physical Oceanography,0,1999
+Journal of Physical Oceanography,0,2000
+Journal of Physical Oceanography,0,2001
+Journal of Physical Oceanography,0,2002
+Journal of Physical Oceanography,0,2003
+Journal of Physical Oceanography,0,2004
+Journal of Physical Oceanography,0,2005
+Journal of Physical Oceanography,0,2006
+Journal of Physical Oceanography,0,2007
+Journal of Physical Oceanography,0,2008
+Journal of Physical Oceanography,0,2009
+Journal of Physical Oceanography,0,2010
+Journal of Physical Oceanography,1,2011
+Journal of Physical Oceanography,0,2012
+Journal of Physical Oceanography,1,2013
+Journal of Physical Oceanography,0,2014
+Journal of Physical Oceanography,2,2015
 Earth and Planetary Science Letters,3,1976
 Earth and Planetary Science Letters,0,1977
 Earth and Planetary Science Letters,0,1978
@@ -159,46 +119,6 @@ Geophysical Research Letters,0,2012
 Geophysical Research Letters,0,2013
 Geophysical Research Letters,2,2014
 Geophysical Research Letters,0,2015
-Global Biogeochemical Cycles,0,1976
-Global Biogeochemical Cycles,0,1977
-Global Biogeochemical Cycles,0,1978
-Global Biogeochemical Cycles,0,1979
-Global Biogeochemical Cycles,0,1980
-Global Biogeochemical Cycles,0,1981
-Global Biogeochemical Cycles,0,1982
-Global Biogeochemical Cycles,0,1983
-Global Biogeochemical Cycles,0,1984
-Global Biogeochemical Cycles,0,1985
-Global Biogeochemical Cycles,0,1986
-Global Biogeochemical Cycles,0,1987
-Global Biogeochemical Cycles,3,1988
-Global Biogeochemical Cycles,0,1989
-Global Biogeochemical Cycles,0,1990
-Global Biogeochemical Cycles,3,1991
-Global Biogeochemical Cycles,1,1992
-Global Biogeochemical Cycles,2,1993
-Global Biogeochemical Cycles,1,1994
-Global Biogeochemical Cycles,2,1995
-Global Biogeochemical Cycles,1,1996
-Global Biogeochemical Cycles,1,1997
-Global Biogeochemical Cycles,0,1998
-Global Biogeochemical Cycles,2,1999
-Global Biogeochemical Cycles,5,2000
-Global Biogeochemical Cycles,4,2001
-Global Biogeochemical Cycles,2,2002
-Global Biogeochemical Cycles,3,2003
-Global Biogeochemical Cycles,3,2004
-Global Biogeochemical Cycles,1,2005
-Global Biogeochemical Cycles,2,2006
-Global Biogeochemical Cycles,7,2007
-Global Biogeochemical Cycles,2,2008
-Global Biogeochemical Cycles,1,2009
-Global Biogeochemical Cycles,0,2010
-Global Biogeochemical Cycles,2,2011
-Global Biogeochemical Cycles,2,2012
-Global Biogeochemical Cycles,2,2013
-Global Biogeochemical Cycles,1,2014
-Global Biogeochemical Cycles,1,2015
 Journal of Geophysical Research,0,1976
 Journal of Geophysical Research,0,1977
 Journal of Geophysical Research,1,1978
@@ -239,46 +159,126 @@ Journal of Geophysical Research,0,2012
 Journal of Geophysical Research,0,2013
 Journal of Geophysical Research,0,2014
 Journal of Geophysical Research,0,2015
-Journal of Physical Oceanography,0,1976
-Journal of Physical Oceanography,0,1977
-Journal of Physical Oceanography,0,1978
-Journal of Physical Oceanography,0,1979
-Journal of Physical Oceanography,0,1980
-Journal of Physical Oceanography,0,1981
-Journal of Physical Oceanography,0,1982
-Journal of Physical Oceanography,2,1983
-Journal of Physical Oceanography,0,1984
-Journal of Physical Oceanography,0,1985
-Journal of Physical Oceanography,1,1986
-Journal of Physical Oceanography,0,1987
-Journal of Physical Oceanography,0,1988
-Journal of Physical Oceanography,0,1989
-Journal of Physical Oceanography,0,1990
-Journal of Physical Oceanography,0,1991
-Journal of Physical Oceanography,0,1992
-Journal of Physical Oceanography,0,1993
-Journal of Physical Oceanography,0,1994
-Journal of Physical Oceanography,0,1995
-Journal of Physical Oceanography,0,1996
-Journal of Physical Oceanography,0,1997
-Journal of Physical Oceanography,0,1998
-Journal of Physical Oceanography,0,1999
-Journal of Physical Oceanography,0,2000
-Journal of Physical Oceanography,0,2001
-Journal of Physical Oceanography,0,2002
-Journal of Physical Oceanography,0,2003
-Journal of Physical Oceanography,0,2004
-Journal of Physical Oceanography,0,2005
-Journal of Physical Oceanography,0,2006
-Journal of Physical Oceanography,0,2007
-Journal of Physical Oceanography,0,2008
-Journal of Physical Oceanography,0,2009
-Journal of Physical Oceanography,0,2010
-Journal of Physical Oceanography,1,2011
-Journal of Physical Oceanography,0,2012
-Journal of Physical Oceanography,1,2013
-Journal of Physical Oceanography,0,2014
-Journal of Physical Oceanography,2,2015
+Tellus,0,1976
+Tellus,0,1977
+Tellus,0,1978
+Tellus,0,1979
+Tellus,0,1980
+Tellus,0,1981
+Tellus,0,1982
+Tellus,0,1983
+Tellus,0,1984
+Tellus,0,1985
+Tellus,0,1986
+Tellus,0,1987
+Tellus,0,1988
+Tellus,0,1989
+Tellus,0,1990
+Tellus,0,1991
+Tellus,0,1992
+Tellus,0,1993
+Tellus,0,1994
+Tellus,0,1995
+Tellus,1,1996
+Tellus,0,1997
+Tellus,0,1998
+Tellus,2,1999
+Tellus,0,2000
+Tellus,0,2001
+Tellus,0,2002
+Tellus,4,2003
+Tellus,0,2004
+Tellus,0,2005
+Tellus,1,2006
+Tellus,0,2007
+Tellus,0,2008
+Tellus,0,2009
+Tellus,0,2010
+Tellus,0,2011
+Tellus,0,2012
+Tellus,0,2013
+Tellus,0,2014
+Tellus,0,2015
+Biogeosciences,0,1976
+Biogeosciences,0,1977
+Biogeosciences,0,1978
+Biogeosciences,0,1979
+Biogeosciences,0,1980
+Biogeosciences,0,1981
+Biogeosciences,0,1982
+Biogeosciences,0,1983
+Biogeosciences,0,1984
+Biogeosciences,0,1985
+Biogeosciences,0,1986
+Biogeosciences,0,1987
+Biogeosciences,0,1988
+Biogeosciences,0,1989
+Biogeosciences,0,1990
+Biogeosciences,0,1991
+Biogeosciences,0,1992
+Biogeosciences,0,1993
+Biogeosciences,0,1994
+Biogeosciences,0,1995
+Biogeosciences,0,1996
+Biogeosciences,0,1997
+Biogeosciences,0,1998
+Biogeosciences,0,1999
+Biogeosciences,0,2000
+Biogeosciences,0,2001
+Biogeosciences,0,2002
+Biogeosciences,0,2003
+Biogeosciences,0,2004
+Biogeosciences,0,2005
+Biogeosciences,0,2006
+Biogeosciences,0,2007
+Biogeosciences,0,2008
+Biogeosciences,0,2009
+Biogeosciences,4,2010
+Biogeosciences,0,2011
+Biogeosciences,1,2012
+Biogeosciences,2,2013
+Biogeosciences,2,2014
+Biogeosciences,0,2015
+Global Biogeochemical Cycles,0,1976
+Global Biogeochemical Cycles,0,1977
+Global Biogeochemical Cycles,0,1978
+Global Biogeochemical Cycles,0,1979
+Global Biogeochemical Cycles,0,1980
+Global Biogeochemical Cycles,0,1981
+Global Biogeochemical Cycles,0,1982
+Global Biogeochemical Cycles,0,1983
+Global Biogeochemical Cycles,0,1984
+Global Biogeochemical Cycles,0,1985
+Global Biogeochemical Cycles,0,1986
+Global Biogeochemical Cycles,0,1987
+Global Biogeochemical Cycles,3,1988
+Global Biogeochemical Cycles,0,1989
+Global Biogeochemical Cycles,0,1990
+Global Biogeochemical Cycles,3,1991
+Global Biogeochemical Cycles,1,1992
+Global Biogeochemical Cycles,2,1993
+Global Biogeochemical Cycles,1,1994
+Global Biogeochemical Cycles,2,1995
+Global Biogeochemical Cycles,1,1996
+Global Biogeochemical Cycles,1,1997
+Global Biogeochemical Cycles,0,1998
+Global Biogeochemical Cycles,2,1999
+Global Biogeochemical Cycles,5,2000
+Global Biogeochemical Cycles,4,2001
+Global Biogeochemical Cycles,2,2002
+Global Biogeochemical Cycles,3,2003
+Global Biogeochemical Cycles,3,2004
+Global Biogeochemical Cycles,1,2005
+Global Biogeochemical Cycles,2,2006
+Global Biogeochemical Cycles,7,2007
+Global Biogeochemical Cycles,2,2008
+Global Biogeochemical Cycles,1,2009
+Global Biogeochemical Cycles,0,2010
+Global Biogeochemical Cycles,2,2011
+Global Biogeochemical Cycles,2,2012
+Global Biogeochemical Cycles,2,2013
+Global Biogeochemical Cycles,1,2014
+Global Biogeochemical Cycles,1,2015
 Nature,0,1976
 Nature,0,1977
 Nature,0,1978
@@ -359,46 +359,46 @@ Science,0,2012
 Science,1,2013
 Science,0,2014
 Science,0,2015
-Tellus,0,1976
-Tellus,0,1977
-Tellus,0,1978
-Tellus,0,1979
-Tellus,0,1980
-Tellus,0,1981
-Tellus,0,1982
-Tellus,0,1983
-Tellus,0,1984
-Tellus,0,1985
-Tellus,0,1986
-Tellus,0,1987
-Tellus,0,1988
-Tellus,0,1989
-Tellus,0,1990
-Tellus,0,1991
-Tellus,0,1992
-Tellus,0,1993
-Tellus,0,1994
-Tellus,0,1995
-Tellus,1,1996
-Tellus,0,1997
-Tellus,0,1998
-Tellus,2,1999
-Tellus,0,2000
-Tellus,0,2001
-Tellus,0,2002
-Tellus,4,2003
-Tellus,0,2004
-Tellus,0,2005
-Tellus,1,2006
-Tellus,0,2007
-Tellus,0,2008
-Tellus,0,2009
-Tellus,0,2010
-Tellus,0,2011
-Tellus,0,2012
-Tellus,0,2013
-Tellus,0,2014
-Tellus,0,2015
+Book,0,1976
+Book,0,1977
+Book,0,1978
+Book,0,1979
+Book,0,1980
+Book,0,1981
+Book,0,1982
+Book,0,1983
+Book,0,1984
+Book,2,1985
+Book,3,1986
+Book,0,1987
+Book,0,1988
+Book,0,1989
+Book,0,1990
+Book,0,1991
+Book,2,1992
+Book,1,1993
+Book,0,1994
+Book,1,1995
+Book,0,1996
+Book,0,1997
+Book,0,1998
+Book,0,1999
+Book,0,2000
+Book,0,2001
+Book,1,2002
+Book,1,2003
+Book,2,2004
+Book,0,2005
+Book,0,2006
+Book,1,2007
+Book,0,2008
+Book,0,2009
+Book,0,2010
+Book,0,2011
+Book,0,2012
+Book,1,2013
+Book,0,2014
+Book,0,2015
 Other,0,1976
 Other,0,1977
 Other,0,1978

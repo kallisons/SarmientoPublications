@@ -38,7 +38,7 @@ button {
 
 <script>
 
-chart("journalts.csv", "blue");
+chart("journalts.csv", "multi");
 
 var datearray = [];
 var colorrange = [];
@@ -56,9 +56,9 @@ else if (color == "orange") {
   colorrange = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"];
 }
 else if (color == "multi") {
-  colorrange = ["#045A8D", "#980043", "#B30000", "#FDBB84", "#FDD49E", "#FEF0D9"];
+  colorrange = ["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c", "#0f3c5a", "#144011", "#fdbf6f", "#ff7f00", "#cab2d6", "#6a3d9a", "#808080"];
 }
-strokecolor = colorrange[0];
+strokecolor = "#000000";
 
 var format = d3.time.format("%Y");
 

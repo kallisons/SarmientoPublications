@@ -19,12 +19,14 @@ allyears<-as.data.frame(allyears)
 colnames(allyears)<-"date"
 journalsall<-merge(allyears, journalsum, by="date", all=TRUE)
 journalsall[is.na(journalsall)==TRUE]<-0
+journalsall<-journalsall[,c("date", "Journal of Physical Oceanography", "Earth and Planetary Science Letters", "Geophysical Research Letters", "Journal of Geophysical Research", "Tellus", "Biogeosciences", "Global Biogeochemical Cycles", "Nature", "Science", "Book", "Other")]
+
 
 for(a in 2:ncol(journalsall)){	
 	if(a==2){
 		jformat<-journalsall[,c(1,a)]
 		colnames(jformat)<-c("date", "value")
-		jformat$key<-rep(colnames(journalsum)[a])		
+		jformat$key<-rep(colnames(journalsall)[a])		
 	}else{
 	jadd<-journalsall[,c(1,a)]
 	colnames(jadd)<-c("date", "value")
@@ -66,7 +68,6 @@ dformat<-dformat[,c("key", "value", "date")]
 
 outfile.d2<-paste("~/Code/Projects/SarmientoPublications/disciplinets.csv")
 write.table(dformat, outfile.d2, quote=FALSE, sep=",", row.names=FALSE, col.names=TRUE)
-
 
 
 elements<-pubdata[,c(1,4:ncol(pubdata))]
